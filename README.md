@@ -16,6 +16,11 @@ Learn and practice the basic substituition techniques
 
 
 
+## Cpp check:
+[![Linux C/C++ CI - Build Status](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/c-cpp.yml)
+
+
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
