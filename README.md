@@ -4,7 +4,7 @@
 
 # CryptoWhat?
 
-![CryptoWhat?](cryptowhat_logo.JPG)
+![CryptoWhat?](https://raw.githubusercontent.com/256151/LTTS_MiniProject_C/main/cryptowhat_logo.JPG)
 
 This is your kickstart module into learning the basics of Cryptography.
 Learn and practice the basic substituition techniques
