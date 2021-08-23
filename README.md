@@ -4,7 +4,7 @@
 
 # CryptoWhat?
 
-![CryptoWhat?](./crytowhat_logo.jpg)
+![CryptoWhat?](C:\Users\Harsh Doshi\Desktop\Sdlc_30_Maverick\cryptowhat_logo.jpg)
 
 This is your kickstart module into learning the basics of Cryptography.
 Learn and practice the basic substituition techniques
