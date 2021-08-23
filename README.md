@@ -22,7 +22,8 @@ Learn and practice the basic substituition techniques
 # Unity Testing
 [![Unit Testing - Unity](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/unity.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/unity.yml)
 
-
+# GCOV
+[![CI-Coverage](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gcov.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gcov.yml)
 
 ## Folder Structure
 Folder             | Description
