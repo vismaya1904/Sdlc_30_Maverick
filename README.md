@@ -20,7 +20,7 @@ Learn and practice the basic substituition techniques
 [![Linux C/C++ CI - Build Status](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/c-cpp.yml)
 
 # Unity Testing
-[![Linux C/C++ CI - Build Status](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/c-cpp.yml)
+[![Unit Testing - Unity](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/unity.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/unity.yml)
 
 
 
