@@ -4,7 +4,7 @@
 
 # CryptoWhat?
 
-![CryptoWhat?](/cryptowhat_logo.JPG)
+![CryptoWhat?](./crytowhat_logo.jpg)
 
 This is your kickstart module into learning the basics of Cryptography.
 Learn and practice the basic substituition techniques
