@@ -14,9 +14,6 @@ Learn and practice the basic substituition techniques
 4. Hill Cipher
 5. Polyalphabetic Cipher
 
-Build | Code Quality | Unity | Git Inspector
-------|----------|-------|--------------
-[![Linux C/C++ CI - Build Status](https://github.com/256151/LTTS_MiniProject_C/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/256151/LTTS_MiniProject_C/actions/workflows/c-cpp.yml) [![Windows C/C++ CI - Build & Test Status](https://github.com/256151/LTTS_MiniProject_C/actions/workflows/Windows%20c-cpp.yml/badge.svg)](https://github.com/256151/LTTS_MiniProject_C/actions/workflows/Windows%20c-cpp.yml) | [![Static Cppcheck](https://github.com/256151/LTTS_MiniProject_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/256151/LTTS_MiniProject_C/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/256151/LTTS_MiniProject_C/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/256151/LTTS_MiniProject_C/actions/workflows/CodeQuality_Dynamic.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a165cc074d43439eaf1f2b6419fb19a7)](https://www.codacy.com/gh/256151/LTTS_MiniProject_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=256151/LTTS_MiniProject_C&amp;utm_campaign=Badge_Grade)| [![Unity - Unit Testing](https://github.com/256151/LTTS_MiniProject_C/actions/workflows/unity.yml/badge.svg)](https://github.com/256151/LTTS_MiniProject_C/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/256151/LTTS_MiniProject_C/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/256151/LTTS_MiniProject_C/actions/workflows/gitinspector.yml)
 
 
 ## Folder Structure
