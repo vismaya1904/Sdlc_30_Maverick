@@ -34,6 +34,22 @@ Folder             | Description
 `5_Report`         | Generated Detailed Report of the project
 `6_ImagesandVideos`| All the UML diagrams and other used images
 
+## Individual Contribution
+| Name                        | Contribution        |
+|------                       |--------------       |
+| Harsh Doshi                 | Test Plan, Workflow |        
+| Chennupati Geethika         | Requiremnets        |        
+| Sai Vamsi Krishna Kadiyala  | Images & Videos     |        
+| Ankit Duhan                 | Implementation      |        
+| P Heam Kumar                | Workflows           |        
+| Harshit                     | Implementation      |       
+| Vismaya K                   | Report              |    
+| Shivani Purushottam Yadawar | Report              |        
+| MOHAMMED SALIH TS           | Workflows           |        
+| Nikita Ramratan Hatwar      | Design              |        
+| Gopu Raman                  | Design              |        
+
+
 
 
 
