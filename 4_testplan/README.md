@@ -12,11 +12,11 @@
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       | User enters the right answer for encryption | Only alphabets, no spaces, right answer | CORRECT_ANSWER | CORRECT_ANSWER |Requirement based |
-|  L_02       | User enters the wrong answer for encryption | Only alphabets, no spaces, wrong answer | WRONG_ANSWER | WRONG_ANSWER | Requirement based    |
+|  L_01       | User enters  right answer for encryption | Only alphabets, no spaces, right answer | CORRECT_ANSWER | CORRECT_ANSWER |Requirement based |
+|  L_02       | User enters  wrong answer for encryption | Only alphabets, no spaces, wrong answer | WRONG_ANSWER | WRONG_ANSWER | Requirement based    |
 |  L_03       | User enters digits/other characters too for encryption | No spaces | INVALID_INPUT | INVALID_INPUT | Requirement based    |
-|  L_04      | User enters the right answer for decryption | Only alphabets, no spaces, right answer | CORRECT_ANSWER | CORRECT_ANSWER |Requirement based |
-|  L_05       | User enters the wrong answer for decryption | Only alphabets, no spaces, wrong answer | WRONG_ANSWER | WRONG_ANSWER | Requirement based    |
+|  L_04      | User enters  right answer for decryption | Only alphabets, no spaces, right answer | CORRECT_ANSWER | CORRECT_ANSWER |Requirement based |
+|  L_05       | User enters  wrong answer for decryption | Only alphabets, no spaces, wrong answer | WRONG_ANSWER | WRONG_ANSWER | Requirement based    |
 |  L_06       | User enters digits/other characters too for decryption | No spaces | INVALID_INPUT | INVALID_INPUT | Requirement based    |
 
 
