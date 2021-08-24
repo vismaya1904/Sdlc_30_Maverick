@@ -21,9 +21,7 @@ Learn and practice the basic substituition techniques
 
 | Git Inspector |		Code Coverage |Code Inspector|
 |---------------|----------------|---------|
-|[![Contribution Check - Git Inspector](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml)
-|[![CI-Coverage](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gcov.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gcov.yml)
-|[![code inspector score](https://www.code-inspector.com/project/26747/score/svg)]|
+|[![Contribution Check - Git Inspector](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml)|[![CI-Coverage](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gcov.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gcov.yml)|[![code inspector score](https://www.code-inspector.com/project/26747/score/svg)]|
 
 
 ## Folder Structure
