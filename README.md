@@ -34,7 +34,7 @@ Learn and practice the basic substituition techniques
 ## cppcheck.yml
 [![Code Quality - Static Code - Cppcheck](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/cppcheck.yml)
 
-#code inspector score
+## code inspector  score
 https://www.code-inspector.com/project/26747/score/svg
 
 ## Folder Structure
