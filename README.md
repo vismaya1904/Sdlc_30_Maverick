@@ -25,6 +25,9 @@ Learn and practice the basic substituition techniques
 # GCOV
 [![CI-Coverage](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gcov.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gcov.yml)
 
+# CodeQuality_dynamic
+[![Contribution Check - Git Inspector](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml)
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
