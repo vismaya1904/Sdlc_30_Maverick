@@ -31,6 +31,8 @@ Learn and practice the basic substituition techniques
 # gitinspector
 [![Contribution Check - Git Inspector](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml)
 
+# cppcheck.yml
+[![Code Quality - Static Code - Cppcheck](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/cppcheck.yml)
 
 ## Folder Structure
 Folder             | Description
