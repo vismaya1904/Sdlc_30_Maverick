@@ -38,7 +38,7 @@ Folder             | Description
 | Name                        | Contribution        |
 |------                       |--------------       |
 | Harsh Doshi                 | Test Plan, Workflow |        
-| Chennupati Geethika         | Requiremnets        |        
+| Chennupati Geethika         | Requirements        |        
 | Sai Vamsi Krishna Kadiyala  | Images & Videos     |        
 | Ankit Duhan                 | Implementation      |        
 | P Heam Kumar                | Workflows           |        
