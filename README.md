@@ -19,19 +19,19 @@ Learn and practice the basic substituition techniques
 ## Cpp check:
 [![Linux C/C++ CI - Build Status](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/c-cpp.yml)
 
-# Unity Testing
+## Unity Testing
 [![Unit Testing - Unity](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/unity.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/unity.yml)
 
-# GCOV
+## GCOV
 [![CI-Coverage](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gcov.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gcov.yml)
 
-# CodeQuality_dynamic
+## CodeQuality_dynamic
 [![Contribution Check - Git Inspector](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml)
 
-# gitinspector
+## gitinspector
 [![Contribution Check - Git Inspector](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml)
 
-# cppcheck.yml
+## cppcheck.yml
 [![Code Quality - Static Code - Cppcheck](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/cppcheck.yml)
 
 ## Folder Structure
