@@ -28,6 +28,10 @@ Learn and practice the basic substituition techniques
 # CodeQuality_dynamic
 [![Contribution Check - Git Inspector](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml)
 
+# gitinspector
+[![Contribution Check - Git Inspector](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vismaya1904/Sdlc_30_Maverick/actions/workflows/gitinspector.yml)
+
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
