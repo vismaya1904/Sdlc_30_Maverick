@@ -37,8 +37,8 @@ Learn and practice the basic substituition techniques
 ## code inspector score 
 [![code inspector score](https://www.code-inspector.com/project/26747/score/svg)]
 
-## code inspector status
-https://www.code-inspector.com/project/26747/score/svg
+## code inspector quality
+https://www.code-inspector.com/project/26747/status/svg
 
 ## Folder Structure
 Folder             | Description
